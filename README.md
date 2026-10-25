@@ -47,13 +47,14 @@ A Unity game project featuring:
 
 | |
 |---|
-| ![Gameplay](README_docs/gameplay.mp4) |
+| <video src="README_docs/gameplay.mp4" width="640" controls></video> |
 
 ---
 
 ## 📎 Supporting Documents
 
 - **Gameplay recording:** `Maze docs/Recording 2026-10-17 185614.mp4` (13s, 30fps)
+- **Full report:** `Maze docs/` — *personal document, not in repository*
 
 ---
 
