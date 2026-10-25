@@ -47,7 +47,7 @@ A Unity game project featuring:
 
 | |
 |---|
-| <video src="README_docs/gameplay.mp4" width="640" controls></video> |
+| ![Gameplay](README_docs_images/gameplay.gif) |
 
 ---
 
