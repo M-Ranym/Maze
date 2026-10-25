@@ -1,0 +1,13 @@
+
+# Unity build artifacts
+.utmp/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Uu]ser[Ss]ettings/
+*.log
+
+# Documentation (large files, not for repo)
+../Maze docs/
+README_images/
