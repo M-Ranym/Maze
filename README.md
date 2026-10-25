@@ -45,13 +45,9 @@ A Unity game project featuring:
 
 ## 🎬 Gameplay Recording
 
-| Frame 1 | Frame 2 | Frame 3 |
-|----------|----------|----------|
-| ![Frame 1](README_docs_images/frame_01.png) | ![Frame 2](README_docs_images/frame_02.png) | ![Frame 3](README_docs_images/frame_03.png) |
-
-| Frame 4 | Frame 5 | Frame 6 |
-|----------|----------|----------|
-| ![Frame 4](README_docs_images/frame_04.png) | ![Frame 5](README_docs_images/frame_05.png) | ![Frame 6](README_docs_images/frame_06.png) |
+| |
+|---|
+| ![Gameplay](README_docs/gameplay.mp4) |
 
 ---
 
